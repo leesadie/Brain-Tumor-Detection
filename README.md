@@ -1,3 +1,1 @@
-# Brain Tumor Detection
-
-## Data exploration and preprocessing
+# Brain Tumor Detection - Classification Model
